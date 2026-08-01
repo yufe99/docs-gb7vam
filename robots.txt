@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-snw2vm.juragan89site.site/sitemap.xml
